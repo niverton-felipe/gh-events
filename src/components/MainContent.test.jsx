@@ -4,7 +4,8 @@ import userEvent from '@testing-library/user-event';
 
 import MainContent from './MainContent';
 
-// Add yet anothet comment
+// Add yet another comment
+// Another comment
 
 describe('MainContent', () => {
   it('should render a button', () => {
